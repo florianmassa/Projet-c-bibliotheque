@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1718421870 source:c:\users\user\documents\cours de c\2024\rt\menu.c
+	<stdio.h>
+	<string.h>
+
+1718436943 source:c:\users\user\documents\cours de c\2024\projet annuel de c 2024 gestion de bibliotheque\menu.c
+	<stdio.h>
+	<string.h>
+
